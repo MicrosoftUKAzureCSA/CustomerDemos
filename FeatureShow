@@ -1,0 +1,9 @@
+API Apps-
+1. Swagger UI (SwashBuckle)
+2. Swagger Client Code Generation (AutoRest)
+3. Authentication (AAD, Service 2 Service)
+4. ARM Templates
+5. DevOps/ALM (GitHub->VSTS->Azure)
+6. Alerting and Monitoring (Application Insights/Logs)
+7. Blue/Green Deployment
+8. Scalability
